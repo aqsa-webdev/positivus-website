@@ -1,0 +1,279 @@
+@media only screen and (min-width: 200px) and (max-width: 757px) {
+    .logo {
+        width: 114px;
+    }
+
+    .text-sec h1 {
+        font-size: 34px !important;
+        font-weight: 500;
+    }
+
+    .text-sec p {
+        font-size: 12px !important;
+        font-weight: 400;
+    }
+
+    .text-sec p br {
+        display: none;
+    }
+
+    .book-btn button {
+        width: 100%;
+    }
+
+    .logos img {
+        filter: grayscale(0%) !important;
+        opacity: 1 !important;
+    }
+
+    .services-sec p br {
+        display: none;
+    }
+
+    .services-sec h2 span {
+        font-size: 36px !important;
+    }
+
+    .card {
+
+        width: 310px !important;
+        height: 322px !important;
+        padding: 50px;
+
+    }
+
+    .card h3 {
+        font-size: 26px !important;
+    }
+
+    .card-img img {
+        width: 165px !important;
+        height: 129px !important;
+        margin-left: -120px !important;
+        margin-top: 80px;
+    }
+
+    .g-card-img img {
+        width: 165px !important;
+        height: 129px !important;
+        margin-left: -85px !important;
+        margin-top: 80px;
+    }
+
+    .b-card-img img {
+        width: 165px !important;
+        height: 129px !important;
+        margin-left: -85px !important;
+        margin-top: 80px;
+    }
+
+    .icon p {
+        display: none;
+    }
+
+    .green-card {
+        width: 310px !important;
+        height: 322px !important;
+        padding: 50px;
+    }
+
+    .b-card {
+        width: 310px !important;
+        height: 322px !important;
+        padding: 50px;
+    }
+    .msg-card-img img {
+    width: 165px !important;
+        height: 129px !important;
+        margin-left: -85px !important;
+        margin-top: 80px;
+}
+.bc-img{
+    display: none;
+}
+.p-text{
+    border-right: none !important;
+    padding-right: 0px !important;
+    text-align: center;
+
+}
+.p-text br{
+    display: none !important;
+}
+.accordion-item{
+    width: 100% !important;
+    height: auto !important;
+    padding: 10px 12px !important;
+    overflow:  hidden !important;
+    /* background: transparent !important;
+    border: none !important;
+    box-shadow: none !important; */
+}
+.accordion-button {
+    width: 100% !important;
+    height: auto !important;
+    padding: 15px 12px !important;
+    font-size: 14px !important;
+    gap: 10px;
+}
+.accordion-button::after{
+    flex-shrink: 0;
+    margin-left: auto !important;
+}
+.accordion-body{
+    padding: 12px !important;
+    font-size: 14 !important;
+}
+.item-two{
+      width: 100% !important;
+    height: auto !important;
+    padding: 7px 12px !important;
+
+}
+.item-two h3{
+    font-size: 12px !important;
+}
+.accordion-button::after {
+    flex-shrink: 0;
+    width: 25px !important;
+    height: 25px !important;
+    background-size: 25px !important;
+}
+.accordion-button h3{
+    font-size: 18px;
+    margin-top: 10px;
+}
+.accordion-button h1{
+    font-size: 30px;
+}
+.team-card{
+     width: 300px !important;
+     height: 370px !important;
+}
+.social{
+    width: 17px !important;
+    height: 17px !important;
+}
+.team-para{
+    border-top: 1px solid black;
+}
+.team-para p{
+    font-size: 16px !important;
+    font-weight: 400;
+}
+.team-img h4{
+    font-size: 18px !important;
+    font-weight: 500;
+}
+.team-img p{
+    font-size: 16px !important;
+    font-weight: 400;
+}
+.t-img{
+    width: 105px;
+    height: 102px;
+}
+.mySwiper {
+  width: 100% !important;
+  height: auto !important;
+  overflow: hidden !important;
+  padding: 25px 15px !important;
+  box-sizing: border-box !important;
+}
+.testi-card {
+   width: 100% !important;
+  height: auto !important;
+   box-sizing: border-box !important;
+}
+.swiper-slide{
+     width: 100% !important;
+   box-sizing: border-box !important;
+}
+.swiper-slide p{
+    font-size: 11px !important;
+}
+.swiper-pagination-bullet {
+  width: 8px !important;
+  height: 8px !important;
+
+}
+.mySwiper .swiper-button-prev{
+    left: 10% !important;
+    bottom: 25px !important;
+    top: auto !important;
+}
+.mySwiper .swiper-button-next{
+    right: 10% !important;
+     bottom: 25px !important;
+     top: auto !important;
+}
+.swiper-pagination{
+    bottom: 20px !important;
+    display: flex !important;
+    justify-content: center !important;
+    gap: 8px !important;
+    margin-bottom: 15px !important;
+}
+.f-items li {
+    list-style: none !important;
+}
+.f-items li a{
+    font-size: 16px !important;
+    text-decoration: none !important;
+}
+.f-text h4{
+    font-size: 18px !important;
+    font-weight: 500;
+    
+}
+.f-text{
+    text-align: center !important;
+    margin-left: 14px !important;
+}
+.f-text p{
+    font-size: 14px !important;
+
+}
+.f-logo{
+    width: 114px;
+    height: 23px;
+}
+.footer{
+    border-top-right-radius: 45px !important;
+    border-top-left-radius: 45px !important;
+}
+.f-input{
+       margin-left: 0px !important;
+       width: 100% !important;
+       height: 216px !important;
+        padding: 35px 20px !important;
+}
+.f-input input{
+    padding: 21px 25px !important;
+}
+.news-btn{
+    padding: 20px 18px !important;
+    width: 100% !important;
+    margin-top: 15px;
+}
+.f-nav{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    padding: 0px !important;
+    margin-right: 15px;
+}
+.bottom{
+    font-size: 16px !important;
+     padding: 20px 0px !important;
+     margin: 20px 18px 0px 18px !important;
+     width: auto !important;
+}
+.bottom a{
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+}
+}
